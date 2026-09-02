@@ -9,3 +9,10 @@ working 1 change
 
 working 2 change
 This line only exists on week2 branch
+
+## Step B2 - Branch merge status
+# git branch --merged
+* main
+  week2b
+# git branch --no-merged
+  wip
